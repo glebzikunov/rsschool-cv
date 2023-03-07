@@ -41,3 +41,18 @@ function fakeBin(x){
   return array.map(cv => (cv >= 5) ? 1 : 0).join(''); 
 }
 ```
+
+---
+
+## __Education and Courses__
+  * University: Belarusian State University of Informatics and Radioelectronics, Faculty of Computer Systems and Networks, Computer Science (in progress)
+  * Courses: 
+    * HTML and CSS courses on [codecademy](https://www.codecademy.com/) (Complete)
+  ![codecademy](/images/codecademy-courses.png)
+    * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
+
+## __Languages__
+  * Russian (Native)
+  * English (Intermediate)
