@@ -1,11 +1,11 @@
 # __Gleb Zikunov__
 
 ## __Contacts__
-  * __Location__: Minsk, Belarus
-  * __Phone__: +375 (29) 715-32-47
-  * __Email__: zikunovga@gmail.com
-  * __GitHub__: [glebzikunov](https://github.com/glebzikunov)
-  * __Telegram__: [Gleb Zikunov](https://t.me/glebzikunov)
+  * Location: Minsk, Belarus
+  * Phone: +375 (29) 715-32-47
+  * Email: zikunovga@gmail.com
+  * GitHub: [glebzikunov](https://github.com/glebzikunov)
+  * Telegram: [Gleb Zikunov](https://t.me/glebzikunov)
 
 ---
 
