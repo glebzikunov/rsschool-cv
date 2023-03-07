@@ -15,3 +15,29 @@ I'm a third-year student at BSUIR, studying in the faculty of computer systems a
 After working with various technologies and programming languages, I've made the choice to follow a career path in Frontend development.
 
 I believe that my ability to learn and never give up will help me to reach great heights in Frontend development.
+
+---
+
+## __Skills__
+  * C, C++ (Basics)
+  * C# (EF Core, ASP .NET)
+  * Python 3 (Django)
+  * Kotlin (Basics)
+  * HTML5, CSS3
+  * JavaScript (Basics)
+  * MS SQL Server
+  * Git, GitHub
+  * Visual Studio, VS Code, IntelliJ IDEA
+
+---
+
+## Code Example
+__Fake Binary kata from Codewars__:
+_Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string._
+
+```
+function fakeBin(x){
+  let array = x.split('').map(Number);
+  return array.map(cv => (cv >= 5) ? 1 : 0).join(''); 
+}
+```
